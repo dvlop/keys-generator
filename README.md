@@ -2,7 +2,6 @@
 This repository contains the key generator for [Keys.lol](https://keys.lol)
 
 ## Building and installing
-0. go get github.com/dvlop/keys-generator
 1. cd to `~/go/src/github.com/sjorso/keys-generator`
 2. install required packages with `go get`
 3. build the executable with `go build`
